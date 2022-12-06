@@ -40,7 +40,8 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: black;
+    color: black
+    
 }
 
 nav ul li:hover{
@@ -63,3 +64,4 @@ nav ul li:hover{
 .Button_login:hover {
     cursor: pointer;
     background-color:crimson
+}
